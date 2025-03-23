@@ -1,0 +1,32 @@
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git init
+Initialized empty Git repository in C:/Users/sneha/OneDrive/Documents/AISHU/.git/
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git branch
+PS C:\Users\sneha\OneDrive\Documents\AISHU> 
+PS C:\Users\sneha\OneDrive\Documents\AISHU> 
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git add hashtable.cpp 
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git status 
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   hashtable.cpp
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hashtable.exe
+
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git commit -am "Initial Commit"
+[main (root-commit) d302e1b] Initial Commit
+ 1 file changed, 11 insertions(+)
+ create mode 100644 hashtable.cpp
+PS C:\Users\sneha\OneDrive\Documents\AISHU>
+PS C:\Users\sneha\OneDrive\Documents\AISHU>
+PS C:\Users\sneha\OneDrive\Documents\AISHU>
+PS C:\Users\sneha\OneDrive\Documents\AISHU>
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git remote add origin https://github.com/Curl-A/GetReadytoFight.git
+PS C:\Users\sneha\OneDrive\Documents\AISHU> git remote -v
+origin  https://github.com/Curl-A/GetReadytoFight.git (fetch)
+origin  https://github.com/Curl-A/GetReadytoFight.git (push)
+PS C:\Users\sneha\OneDrive\Documents\AISHU>
