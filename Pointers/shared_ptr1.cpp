@@ -1,4 +1,4 @@
-// shared pointer implementation which shows memory leak
+// shared pointer implementation
 #include<iostream>
 template<typename T>
 class shared_ptr {
